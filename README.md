@@ -6,4 +6,4 @@ This app is built using Reactjs library and allows user to see weather data usin
 * Open the folder in any editor. Example- VS Code, Sublime or Atom etc.
 * Run command "npm install"
 * Go to "https://home.openweathermap.org" to get your API key and add it to .env file.
-* Then run "npm start" to start the app
+* Then run "npm start" to start the app.
